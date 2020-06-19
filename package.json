@@ -1,0 +1,26 @@
+{
+  "name": "web-server-introduction",
+  "version": "1.0.0",
+  "description": "Introduction to serve your files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thementor-exercises/3-exercise.git"
+  },
+  "keywords": [
+    "web",
+    "server",
+    "json",
+    "serve",
+    "files"
+  ],
+  "author": "Bartłomiej Górowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thementor-exercises/3-exercise/issues"
+  },
+  "homepage": "https://github.com/thementor-exercises/3-exercise#readme"
+}
